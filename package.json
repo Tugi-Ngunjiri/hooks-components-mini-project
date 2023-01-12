@@ -9,6 +9,8 @@
     }
   },
   "dependencies": {
+    "env-cmd": "^10.1.0",
+    "gh-pages": "^4.0.0",
     "jest-svg-transformer": "^1.0.0",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
@@ -43,5 +45,17 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "## Learning Goals",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tugi-Ngunjiri/hooks-components-mini-project.git"
+  },
+  "author": "tugi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tugi-Ngunjiri/hooks-components-mini-project/issues"
+  },
+  "homepage": "https://github.com/Tugi-Ngunjiri/hooks-components-mini-project#readme"
 }
